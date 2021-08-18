@@ -5,6 +5,7 @@ Analysis &amp; Prediction of Employee Attrition using Machine Learning Algorithm
   - LinearSVC
   - KNeighborsClassifier
   - XGBClassifier
+  #Jaishreeram
 
 # Best Algorithm for this prediction:
   - LinearSVC
